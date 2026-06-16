@@ -1,0 +1,5 @@
+1. File reading and writing
+2. Management Report - total number of drivers, customers, drives per day per drive, (daily, weekly,monthly rides) etc.
+3. View Diagrams - Visualizations
+4. GUI using tkinter - performing all functions
+5. Some addtional features that could be included : data validations during input, ride fare calculation, driver status indicator, 

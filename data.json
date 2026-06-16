@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "123",
+      "role": "admin",
+      "full_name": "Administrator",
+      "address": "B1 1AB"
+    },
+    {
+      "username": "son",
+      "password": "123",
+      "role": "staff",
+      "full_name": "Ss",
+      "address": ""
+    }
+  ],
+  "admin": {
+    "username": "admin",
+    "password": "123",
+    "address": "B1 1AB"
+  },
+  "drivers": [
+    {
+      "first_name": "John",
+      "surname": "Smith",
+      "vehicle_type": "Sedan",
+      "status": "Available"
+    },
+    {
+      "first_name": "Jane",
+      "surname": "Smith",
+      "vehicle_type": "SUV",
+      "status": "Available"
+    },
+    {
+      "first_name": "Jone",
+      "surname": "Carlos",
+      "vehicle_type": "Van",
+      "status": "Offline"
+    }
+  ],
+  "customers": [
+    {
+      "first_name": "Sara",
+      "surname": "Smith",
+      "age": 20,
+      "mobile": "07012345678",
+      "postcode": "B1 234",
+      "taxi_driver": "None"
+    },
+    {
+      "first_name": "Mike",
+      "surname": "Jones",
+      "age": 37,
+      "mobile": "07555551234",
+      "postcode": "L2 2AB",
+      "taxi_driver": "None"
+    },
+    {
+      "first_name": "David",
+      "surname": "Smith",
+      "age": 25,
+      "mobile": "07123456789",
+      "postcode": "C1 ABC",
+      "taxi_driver": "None"
+    }
+  ],
+  "rides": [],
+  "completed_customers": [],
+  "next_ride_id": 1
+}
